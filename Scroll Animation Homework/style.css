@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&family=Noto+Serif+JP&display=swap');
+html{
+	/* Set height of the html page to 100% of the browser height */
+	height: 100%;
+	/* Hide horizontal scroll */
+	overflow-x: hidden;
+	font-family: 'Helvetica', sans-serif;
+}
+
+body{
+	/* Set height of the body to 100% -- separated out of html to allow scrollTo animation */
+	height: 100%;
+	margin: 0px;
+}
+
+/* 
+Navigation Bar 
+*/
+#nav{
+	/* Fix navigation bar at the top middle of the web page */
+    position: fixed;
+    /* calc() CSS function calculates numbers of different units */
+    left: calc(50% - 50px);
+    top: 20px;
+    /* Display nav bar on top of everything else */
+    z-index: 1;
+}
+
+.nav-btn{
+	width: 20px;
+    height: 20px;
+    /* Make square div into a circle */
+    border-radius: 50%;
+    background-color: white;
+    border: 1px solid black;
+    display: inline-block;
+    cursor: pointer;
+    /* transition changes in background-color */
+    transition: background-color 0.5s;
+}
+
+/* When a nav-btn is hovered on, set background-color to black */
+.nav-btn:hover{
+	background-color: black;
+}
+
+
+
+/* 
+Parallax: Home and Story sections;
+*/
+#home, #story{
+	/* Set height of div to 100% */
+	height: 100%;
+	/* The bottom three background CSS settings create parallax effect */
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center;
+}
+
+#home{
+	background-color: #e4d5ce;
+}
+
+.header{
+	width: 850px;
+	font-size: 45px;
+	position: relative;
+	left: 50px;
+	top: 250px;
+	font-family: 'Dancing Script', cursive;
+}
+
+
+.girl-img img{
+	position: relative;
+	left: 950px;
+	top: -100px;
+}
+
+#story{
+	/* Set background image of ocean section using url() function */
+	background-image: url('img/late1.png');
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center;
+}
+
+
+#scroll-div{
+    position: relative;
+    width: 150px;
+    text-align: center;
+    top: calc(30% - 350px);
+    left: calc(50% - 75px);
+}
+
+#scroll{
+	width: 100px;
+	margin-top: 25px;
+}
+
+#scroll-text{
+	color: white;
+}
+
+/* 
+Text sections after home and story sections
+*/
+.text-section{
+	/* Center text in the middle of browser using flexbox */
+	height: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-family: 'Noto Serif JP', serif;
+}
+
+.text{
+	width: 70%;
+	font-size: 20px;
+}
+
+#girl-div{
+    position: relative;
+    width: 180px;
+    text-align: center;
+	top: 95%;
+    left: calc(50% - 90px);
+}
+
+#girl-text{
+	color: white;
+	font-size: large;
+	text-align: center;
+	font-weight: 600;
+
+}

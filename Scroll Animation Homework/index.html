@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Comic Demo</title>
+	<link href="style.css" rel="stylesheet">
+</head>
+<body>
+	<!-- Navigation bar -->
+	<div id="nav">
+		<!-- link to divs on the same page using their id names -->
+		<a href="#home"><div class="nav-btn" id="first-page"></div></a>
+		<a href="#story"><div class="nav-btn" id="third-page"></div></a>
+	</div>
+	<!-- 
+	Four full browser size sections:
+	1. Mountain
+	2. Text section
+	3. Ocean
+	4. Text section
+	 -->
+	<div id="home">
+		<div class="header"><h2>Late and Latte-less: A Classroom Catastrophe</h2></div>
+		<div class="girl-img"><img id="girl" src="img/girl.png" width="400" height="520"></div>
+		<!-- Content to display inside the mountain div -->
+		<div id="scroll-div">
+			<span id="scroll-text">Scroll Down to Start</span>
+			<img id="scroll" src="img/scroll.png">
+		</div>
+	</div>
+	<div id="first-text" class="text-section">
+		<p class="text">A student is walking leisurely to her classroom, enjoying her coffee and scrolling through her phone. She's in no rush, as she believes she has plenty of time to make it to her lecture. Suddenly, the student looks up at the clock and realizes that she's already five minutes late. She starts to run down the hallway, but spills her coffee all over herself in the process. She's now in a hurry, but also covered in coffee.</p>
+	</div>
+	<div id="story">
+		<div id="girl-div">
+			<span id="girl-text">I have a minute left, almost there!</span>
+		</div>
+	</div>
+	<div id="second-text" class="text-section">
+		<p class="text">The student finally makes it to her classroom, completely flustered and embarrassed. However, her professor is understanding and simply asks if she's okay. The student is relieved and grateful for the professor's empathy. She takes her seat, ready to focus on the lecture and forget about her coffee mishap.
+		</p>
+	</div>
+	<!-- Cat div position is fixed on the bottom left corner of the web page -->
+	<!-- <div id="cat-div">
+		<span id="cat-text">Hello!</span>
+		<img id="cat" src="img/cat.png">
+	</div> -->
+</body>
+</html>
