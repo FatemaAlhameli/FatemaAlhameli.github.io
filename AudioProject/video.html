@@ -1,0 +1,60 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Fear In The Skies: A Flight Emergency</title>
+</head>
+
+<body>
+    <!-- The hamburger menu is a hidden menu that appears when the user clicks the hamburger icon. -->
+    <div class="overlay overlay-slide-left" id="overlay">
+
+        <!-- The navigation bar appears when the user clicks the hamburger icon. -->
+        <nav>
+            <ul>
+                <!-- Each list item is a link to a different page. -->
+                <li id="nav-1" class="slide-out-1 center">
+                    <a href="index.html" class="center">Home</a>
+                </li>
+                <li id="nav-2" class="slide-out-2 center">
+                    <a href="video.html" class="center">Project</a>
+                </li>
+                <li id="nav-3" class="slide-out-3 center">
+                    <a href="about.html" class="center">About</a>
+                </li>
+            </ul>
+        </nav>
+    </div>
+
+    <!-- The hamburger menu icon appears in the top right corner of the page. -->
+    <div class="hamburger-menu" id="hamburger-menu">
+        <div class="menu-bar1"></div>
+        <div class="menu-bar2"></div>
+        <div class="menu-bar3"></div>
+    </div>
+
+    <!-- The main content of the page is contained within this div. -->
+    <div class="mainContainer">
+        <!-- The heading contains an H1 element with the page title. -->
+        <div class="heading">
+            <h1 id="pageTitle">Now Screening- Fear In The Skies: A Flight Emergency</h1>
+        </div>
+
+        <!-- The video container contains an iframe element that embeds a Vimeo video player. -->
+        <div class="videoContainer">
+            <div style="padding:56.25% 0 0 0;position:relative;">
+                <iframe
+                    src="https://player.vimeo.com/video/816498176?h=c2f65588a5&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+                    frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen
+                    style="position:absolute;top:0;left:0;width:70%;height:70%;" title="plane"></iframe>
+            </div>
+        </div>
+    </div>
+    <!-- This script tag loads the Vimeo player API. -->
+    <script src="script.js"></script>
+</body>
+
+</html>
