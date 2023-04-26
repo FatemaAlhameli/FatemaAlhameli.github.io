@@ -18,14 +18,15 @@ For this project, our group decided to create a soundscape called “Fear in the
 
 
 # Process
-When receiving this project, as a group we decided what type of audio to create, which was a soundscape with a story, we began brainstorming and coming up with potential themes to explore. Throughout the process, we settled on coming up with a storyline of a flight emergency. As there is a lot of room for creativity, we thought it would be fun to compose the soundscape. We made the outline of the soundscape and the potential sound effects to use. We also decided on what our original sound effects would be, which were the announcements at the airport and aircraft as well as a few passenger sounds. We figured it would be better to record those ourselves and wrote a script for it.   
+When receiving this project, as a group we decided what type of audio to create, which was a soundscape with a story, we began brainstorming and coming up with potential themes to explore. Throughout the process, we settled on coming up with a storyline of a flight emergency. As there is a lot of room for creativity, we thought it would be fun to compose the soundscape. We made the [outline](https://docs.google.com/document/d/1p7RGG4lCS3AO9NT0rOVlpavfN1pizXM1iB2zlMAE05k/edit?usp=sharing) of the soundscape and the potential sound effects to use. In our outline and script, we specified the types of sounds we wanted to include that would reflect and correspond with the storyline. Once we had a detailed outline of our audio we decided on what original sound effects we would produce ourselves. In total, in our soundscape, we incorporated seven original sound effects.  The original sound effects we decided to create were first the boarding announcement, multiple captain announcements, and flight attendant announcements. The reason we decided to produce these originally is to make sure we have consistency with the individuals in the story/soundscape. The other original sounds we created were female passengers talking on the phone, other passengers’ screams, and panic. We decided to add a female passenger who was talking on the phone to her parents to give the story more depth. After deciding on the sounds to create as a group, each member was assigned a role in order to produce these sound effects. Then, we wrote a script for all the announcements and sound effects being produced. This script is shown in the outline [here](https://docs.google.com/document/d/1p7RGG4lCS3AO9NT0rOVlpavfN1pizXM1iB2zlMAE05k/edit?usp=sharing).  
 
-## Audio Creation
-Original Recordings:
+Original Recording's Roles:
 - Airport Announcement: Fatema
 - Pilot: Snehil
 - Girl on the phone: Alaa
 - Passengers: Rose
+
+## Audio Creation
 
 The challenge of creating the soundscape for our prject lies in creating an immersive and realistic experience through sound：How to integrate the audio that we recorded with the airplane cabin background sound that we gathered from the internet through audio processing, and how to meet people's expectations of airplane announcement etc. We also used a lot of fade in and fade out to make the multi-track sound like a consistent piece of audio.
 
