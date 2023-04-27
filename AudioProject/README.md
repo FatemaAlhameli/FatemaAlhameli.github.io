@@ -33,19 +33,19 @@ Original Recording's Roles:
 
 The first step we did before beginning the soundscape was to book the sound equipment from the equipment center on campus. We believe it was essential to use this equipment as it helped us create clean and clear sounds. Once everyone recorded their audio we imported the files to a computer to begin editing and adding other sound effects. As recommended by the Professor and equipment manager we checked out the following: 
 
-●  1x Zoom H4 Recorder
+-  1x Zoom H4 Recorder
 
-●  1x SD 8GB or 16GB
+-  1x SD 8GB or 16GB
 
-●  2x AA Rechargeable Batteries
+-  2x AA Rechargeable Batteries
 
-●  1x La Crosse AA Charger
+-  1x La Crosse AA Charger
 
-●  1x Universal Plug Adapter
+-  1x Universal Plug Adapter
 
-●  1x Headphones
+- 1x Headphones
 
-●  1x Mini-USB cable (for getting files off Zoom H4)
+-  1x Mini-USB cable (for getting files off Zoom H4)
 
 ### Editing Sound Effects
 
