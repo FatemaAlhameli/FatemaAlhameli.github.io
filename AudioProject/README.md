@@ -28,7 +28,33 @@ Original Recording's Roles:
 
 ## Audio Creation
 
-The challenge of creating the soundscape for our prject lies in creating an immersive and realistic experience through sound：How to integrate the audio that we recorded with the airplane cabin background sound that we gathered from the internet through audio processing, and how to meet people's expectations of airplane announcement etc. We also used a lot of fade in and fade out to make the multi-track sound like a consistent piece of audio.
+
+### Recording Sound Effects
+
+The first step we did before beginning the soundscape was to book the sound equipment from the equipment center on campus. We believe it was essential to use this equipment as it helped us create clean and clear sounds. Once everyone recorded their audio we imported the files to a computer to begin editing and adding other sound effects. As recommended by the Professor and equipment manager we checked out the following: 
+
+●  1x Zoom H4 Recorder
+
+●  1x SD 8GB or 16GB
+
+●  2x AA Rechargeable Batteries
+
+●  1x La Crosse AA Charger
+
+●  1x Universal Plug Adapter
+
+●  1x Headphones
+
+●  1x Mini-USB cable (for getting files off Zoom H4)
+
+### Editing Sound Effects
+
+The original sounds we created needed to be edited in order to fit within the context of our audio story. For example, the boarding announcement needed to sound like it was coming out of a speaker just like how it would be in airports. Therefore, we decided to use iMovie to edit each original sound separately. To create a distorted effect on the sounds we used effects such as echo, muffled, delay, static, and even a telephone effect for the sound of the girl talking on the phone. We used multiple effects on a single audio. In this way, we were able to enhance the sounds that we had recorded and fit them more smoothly into the soundscape story that we had envisioned.
+
+We then decided to use Audacity to create the full soundscape as it provided a wide range of properties to edit sound effects. Before editing the sound effects and adding them to Audacity to combine them together and create smooth transitions we looked through the internet for free non-copyright sound effects to use along with our original sounds. Some sound effects we found and used were the plane take-off and landing.  After gathering sound effects that go along with our storyline, we followed our plot to compose the sounds together. The beginning of the plot was at the airport so we added the boarding announcement first with an airport ambiance sound to depict the plot well. The plot continues to the plane itself where we use an engine sound that we blur like it's in the background and the sound of the girl talking to her parents on the phone. After we added the plane take-off sound followed by silence but still sounds of people sleeping and talking to inform the listener that everyone is calm and relaxed. Then we incorporate the sound effects of shaking and engine crackling sound that increases. We edited the sound so that its volume goes from lower to higher to make the listener feel like there is something dangerous happening. With these sounds, we add the captain turbulence announcement. To make the listener feel the turbulence and sense of danger that is going on we increased the sound of shaking and added the sound of people panicking. We then incorporated the screams produced by Rose. We edited the screams using echos and large room effects that made it seems like they were in the background. We overlaid the other scream sound and increased the sound to make it feel like the girl is screaming next to you. The ending of the plot was the captain making the emergency landing announcement, the landing sound, the sound of relief, clapping, and the girl calling her parents. 
+
+
+Some of the editing properties we used frequently on Audacity were fade-in, fade-out, manipulating pitch, speed, chopping audio, and looping audio. We mainly used fade-in and fade-out to balance, merge, and smoothly transition between the multiple tracks we had (10 tracks). We used the changing pitch feature to make certain sounds less sharp and more clear for the listener. We used this mainly for the scream sounds. We used the speed feature to make some sounds slower, such as the airplane ambiance sound. Manipulating audio was a technique we used to make certain sounds fit better with the soundscape. For instance, we used two different audios, cut them into parts, and merged them together in order to sound like it was a plane landing. With a combination of all these effects, our goal was to create a consistent well-constructed soundscape. 
 
 
 ## Website Creation
